@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Hosam Youssef</h1>
 <h3 align="center">A Fresh Graduated Backend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/HosamUsf/HosamUsf/assets/57178026/d669e82b-7199-4d9f-b49c-414e4d9aec60)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hosamusf&label=Profile%20views&color=0e75b6&style=flat" alt="hosamusf" /> </p>
 
