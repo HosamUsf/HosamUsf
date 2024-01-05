@@ -13,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS , React.js**
 
 - 💬 Ask me about **Java, Spring, Docker, SQL, Flutter**
 
