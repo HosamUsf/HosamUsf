@@ -14,9 +14,9 @@
 
 
 
-- 🌱 I’m currently learning **AWS , React.js**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Java, Spring, Docker, SQL, Flutter**
+- 💬 Ask me about **Java, Spring, Docker, SQL**
 
 - 📫 How to reach me **dev.hosamyoussef@gmail.com**
 
